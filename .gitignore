@@ -1,0 +1,16 @@
+# Ignore environment files
+.env
+
+#Ignore uploads
+uploads/
+
+# Python cache directories
+__pycache__/
+routes/__pycache__/
+services/__pycache__/
+
+# Log files
+*.log
+
+
+
